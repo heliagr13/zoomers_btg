@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1741247301728" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 4th Edition</schemaversion>
+    <lom xmlns="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lom.xsd">
+      <general>
+        <title>
+          <string language="es">PlatformConstructor</string>
+        </title>
+        <language>es</language>
+      </general>
+      <technical>
+        <format>text/html</format>
+        <requirement>
+          <orComposite>
+            <type>
+              <source>LOMv1.0</source>
+              <value>browser</value>
+            </type>
+            <name>
+              <source>LOMv1.0</source>
+              <value>any</value>
+            </name>
+          </orComposite>
+        </requirement>
+        <otherPlatformRequirements>
+          <string language="en">HTML5-compliant web browser</string>
+        </otherPlatformRequirements>
+      </technical>
+      <educational>
+        <interactivityType>
+          <source>LOMv1.0</source>
+          <value>active</value>
+        </interactivityType>
+        <interactivityLevel>
+          <source>LOMv1.0</source>
+          <value>very high</value>
+        </interactivityLevel>
+        <intendedEndUserRole>
+          <source>LOMv1.0</source>
+          <value>learner</value>
+        </intendedEndUserRole>
+        <context>
+          <source>LOMv1.0</source>
+          <value>school</value>
+        </context>
+        <language>es</language>
+      </educational>
+      <rights>
+        <cost>
+          <source>LOMv1.0</source>
+          <value>no</value>
+        </cost>
+        <copyrightAndOtherRestrictions>
+          <source>LOMv1.0</source>
+          <value>License: 'Creative Commons Attribution-Non commercial'</value>
+        </copyrightAndOtherRestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="34a677a3-817b-46d2-b517-90bd4a7edd00_1741247301728_org">
+    <organization identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1741247301728_org">
+      <title>Зумеры: скорость Х2, концентрация —10</title>
+      <item identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1741247301728_item" identifierref="resource_1">
+        <title>Зумеры: скорость Х2, концентрация —10</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="resource_1" type="webcontent" href="index.html?id=9fe042f1-a59a-4c85-8e6a-453c91ba17c9" adlcp:scormType="sco">
+      <file href="index.html"/>
+      <file href="defaultData.js"/>
+      <file href="static/css/bundle.919e5c80.css"/>
+      <file href="static/css/platform.7fb6c529.css"/>
+      <file href="static/css/public.c85ec870.css"/>
+      <file href="static/js/bundle.8d2d3a85.js"/>
+      <file href="static/js/platform.235f810f.js"/>
+      <file href="static/js/public.ce504d96.js"/>
+      <file href="static/js/reactPlayerDailyMotion.2e881f25.chunk.js"/>
+      <file href="static/js/reactPlayerFacebook.7a782163.chunk.js"/>
+      <file href="static/js/reactPlayerFilePlayer.6315033b.chunk.js"/>
+      <file href="static/js/reactPlayerKaltura.9ebd4042.chunk.js"/>
+      <file href="static/js/reactPlayerMixcloud.0c1c271e.chunk.js"/>
+      <file href="static/js/reactPlayerMux.b0520081.chunk.js"/>
+      <file href="static/js/reactPlayerPreview.7d2ba769.chunk.js"/>
+      <file href="static/js/reactPlayerSoundCloud.5744cf04.chunk.js"/>
+      <file href="static/js/reactPlayerStreamable.81f4ef44.chunk.js"/>
+      <file href="static/js/reactPlayerTwitch.7ea454fc.chunk.js"/>
+      <file href="static/js/reactPlayerVidyard.69678f33.chunk.js"/>
+      <file href="static/js/reactPlayerVimeo.11fcb353.chunk.js"/>
+      <file href="static/js/reactPlayerWistia.dbb2ea10.chunk.js"/>
+      <file href="static/js/reactPlayerYouTube.870c0a8a.chunk.js"/>
+      <file href="static/js/runtime.0bca01fe.js"/>
+      <file href="static/media/authLogo.9eb7a3accd47113f4f79.png"/>
+      <file href="static/media/index.6b22d9b88cb98b0550ab.cjs"/>
+      <file href="static/media/inter-cyrillic-400-normal.cb04b2ee2f7d192478b8.woff2"/>
+      <file href="static/media/inter-cyrillic-400-normal.e2841352dd9512ff455b.woff"/>
+      <file href="static/media/inter-cyrillic-500-normal.b9dcbca183ac93f02061.woff2"/>
+      <file href="static/media/inter-cyrillic-500-normal.e824ac3c6c579cd0fe85.woff"/>
+      <file href="static/media/inter-cyrillic-600-normal.c556b5d042ebf128e47c.woff"/>
+      <file href="static/media/inter-cyrillic-600-normal.ce60970447cde0dd1582.woff2"/>
+      <file href="static/media/inter-cyrillic-700-normal.36e9cf9ecc07ac6bce28.woff2"/>
+      <file href="static/media/inter-cyrillic-700-normal.534fd15b796bf021d0be.woff"/>
+      <file href="static/media/inter-cyrillic-800-normal.5e81d13f834521f62fc6.woff2"/>
+      <file href="static/media/inter-cyrillic-800-normal.e622342cf77ffa0f4004.woff"/>
+      <file href="static/media/inter-cyrillic-900-normal.7a4390ab24fd35c929bc.woff"/>
+      <file href="static/media/inter-cyrillic-900-normal.ee2f73d86e5bdc668444.woff2"/>
+      <file href="static/media/inter-cyrillic-ext-400-normal.e89451624c6caf35687f.woff"/>
+      <file href="static/media/inter-cyrillic-ext-400-normal.fd1478dcc74de00ee4c0.woff2"/>
+      <file href="static/media/inter-greek-400-normal.a42da273bb968bf2058d.woff"/>
+      <file href="static/media/inter-greek-400-normal.a8de720a6f13c66c8a4e.woff2"/>
+      <file href="static/media/inter-greek-ext-400-normal.b9e1e89444a313a63b91.woff"/>
+      <file href="static/media/inter-greek-ext-400-normal.f2fa0d9ef98f59d4a75b.woff2"/>
+      <file href="static/media/inter-latin-400-normal.9698cc7dbf147ed363b6.woff2"/>
+      <file href="static/media/inter-latin-400-normal.b0c8fe9db56dd415a25a.woff"/>
+      <file href="static/media/inter-latin-500-normal.5b7156f802c053798d95.woff2"/>
+      <file href="static/media/inter-latin-500-normal.f46567788e464ac34d10.woff"/>
+      <file href="static/media/inter-latin-600-normal.28c8f6060760ec1a5d25.woff"/>
+      <file href="static/media/inter-latin-600-normal.9d111139a583baef3053.woff2"/>
+      <file href="static/media/inter-latin-700-normal.d42de9b25ac31d2a2a8b.woff2"/>
+      <file href="static/media/inter-latin-700-normal.fc47ca451598e4b97249.woff"/>
+      <file href="static/media/inter-latin-800-normal.60c62be686eecd8d12e3.woff"/>
+      <file href="static/media/inter-latin-800-normal.e6b2d1fbdae175ec1230.woff2"/>
+      <file href="static/media/inter-latin-900-normal.7d99dcfce1c907019d9d.woff2"/>
+      <file href="static/media/inter-latin-900-normal.806815203013721efac5.woff"/>
+      <file href="static/media/inter-latin-ext-400-normal.1c20f7dc20d731a18fcd.woff"/>
+      <file href="static/media/inter-latin-ext-400-normal.3d10c85fbd16969509a2.woff2"/>
+      <file href="static/media/inter-vietnamese-400-normal.44c9df135eec470b0ab6.woff2"/>
+      <file href="static/media/inter-vietnamese-400-normal.96f8adc74b63e1a3655f.woff"/>
+      <file href="static/svg/accordion.61c7138bc821d99f29e0.svg"/>
+      <file href="static/svg/accordionIndents.4d89d4f9d83a70a722a8.svg"/>
+      <file href="static/svg/alert-404.333785d7771b12a0ed3a.svg"/>
+      <file href="static/svg/audio.266950bb42f113fb521a.svg"/>
+      <file href="static/svg/button.a5a986aa515f234d146a.svg"/>
+      <file href="static/svg/card.74473b8a31965407304a.svg"/>
+      <file href="static/svg/chart.1e5d2458d4b2382c1b2c.svg"/>
+      <file href="static/svg/code.66f331beb5782f6e29a3.svg"/>
+      <file href="static/svg/commentCursor.9d302611d158d9ff6eab.svg"/>
+      <file href="static/svg/companyLogo.9f865ec0f90d60c9a897.svg"/>
+      <file href="static/svg/componentIndents.1d8904c9fec0204a5ead.svg"/>
+      <file href="static/svg/contentIndents.9114ffa6bd1f1adf92cf.svg"/>
+      <file href="static/svg/courseStructure.ee58b733db197773c236.svg"/>
+      <file href="static/svg/deletedEmployee.2ab94c77b4180fbc12e7.svg"/>
+      <file href="static/svg/divider.a2f7aad224247a36860f.svg"/>
+      <file href="static/svg/downloader.f1aabd866c8a7db1aaf0.svg"/>
+      <file href="static/svg/embedded.3db5711bbdc01c7fd5ca.svg"/>
+      <file href="static/svg/fail.ca5dccac20495e69ea51.svg"/>
+      <file href="static/svg/grouping.2831d739e09092cb0464.svg"/>
+      <file href="static/svg/hotspot.bbc3a3c81838d46ecc3a.svg"/>
+      <file href="static/svg/iconIndents.94817af04bded7a82a4b.svg"/>
+      <file href="static/svg/illustration-eye-block.750fb1a5f86418d1a0a9.svg"/>
+      <file href="static/svg/image.1772122ca65dae57ce6a.svg"/>
+      <file href="static/svg/imageDemo.ece1d8205670f4d8461b.svg"/>
+      <file href="static/svg/indent_content.d8392f946ac03f84735d.svg"/>
+      <file href="static/svg/indent_tabs.43152c9a92b03de77813.svg"/>
+      <file href="static/svg/indentsHint.11fbfd5d909986af5cb9.svg"/>
+      <file href="static/svg/info.8f81387d75d726996b62.svg"/>
+      <file href="static/svg/labeledGraphic.75c29f046daa622de80a.svg"/>
+      <file href="static/svg/link.04491153c19b23be447d.svg"/>
+      <file href="static/svg/list.3ad3f24222d67fb4e7c3.svg"/>
+      <file href="static/svg/list.84d1da7446aa52682e06.svg"/>
+      <file href="static/svg/logo-full_l.2c4fad3bca05d8008a2b.svg"/>
+      <file href="static/svg/logo-full_m.2a2d938809c5a5872e3d.svg"/>
+      <file href="static/svg/logo.9f865ec0f90d60c9a897.svg"/>
+      <file href="static/svg/pendingEmployee.a1593d9a5751275cc3d0.svg"/>
+      <file href="static/svg/progress.94aa37582dc19461de35.svg"/>
+      <file href="static/svg/rectangle.f71d13b530d250793973.svg"/>
+      <file href="static/svg/richText.cc3c2eccf42eb4908ec0.svg"/>
+      <file href="static/svg/single_mini.6702ccbf79796c459277.svg"/>
+      <file href="static/svg/slider.72d25ddc0fdb61df0510.svg"/>
+      <file href="static/svg/splitter.98b8915aa8eef0f8d397.svg"/>
+      <file href="static/svg/success.24cb51da3c5b4199c0a2.svg"/>
+      <file href="static/svg/table.2c874aef2e7ebe116762.svg"/>
+      <file href="static/svg/tabs.35b03039cb66afc15196.svg"/>
+      <file href="static/svg/test-ranking.2ae6689574f2eba77927.svg"/>
+      <file href="static/svg/test-single-choise.ec06f075c106fb549f4e.svg"/>
+      <file href="static/svg/testFeedback.b04884a26025964cabee.svg"/>
+      <file href="static/svg/testInfoEnd.ab5bb50bb570367b1a73.svg"/>
+      <file href="static/svg/testInfoStart.ab5bb50bb570367b1a73.svg"/>
+      <file href="static/svg/testKeyboardInput.3ea3a77c22ebd601b431.svg"/>
+      <file href="static/svg/testMatching.02accf880e3d259f45a5.svg"/>
+      <file href="static/svg/testMultipleChoice.d34404445c60dcc6d0df.svg"/>
+      <file href="static/svg/testResult.66ef576b4a4c2e9ba5ae.svg"/>
+      <file href="static/svg/video.c8785bb3e7d0f15b9b63.svg"/>
+      <file href="templates/1f69e79c83994faa6333b0490576a50d__logo.svg"/>
+      <file href="templates/20b508f60bb02536553e3b467f770686__Frame-13.png"/>
+      <file href="templates/32bb46c300056c105da3f69fd59312f9__Akt-Thin.woff2"/>
+      <file href="templates/33131878e77f17e056623b812d6cc449__Akt-Bold.woff2"/>
+      <file href="templates/3b5620823a3832e3d5b55ae307ce4dfd__Akt-Light.woff2"/>
+      <file href="templates/5b6ad9448bbdeffd395b764288ee30e2__Frame-9.png"/>
+      <file href="templates/6ae61da08d38b71dcf1e99d211c8af84__Frame-11.png"/>
+      <file href="templates/6e50616c0cf74b42982b2f70039f7bd9__Frame-16.png"/>
+      <file href="templates/7144351d9b42bfaf9470d598e1464b34__Akt-Solid.woff2"/>
+      <file href="templates/76981c9f2b36688f76a01d7011323ffc__Frame-10.png"/>
+      <file href="templates/8f7190d09048a64023cb8e7c78b1ca7d__Akt-Medium.woff2"/>
+      <file href="templates/9e502eea527d04e120ac8595b306dad2__Akt-Black.woff2"/>
+      <file href="templates/b590359dc0d9561af45335916de07a55__Frame-15.png"/>
+      <file href="templates/dac7bffea6b8c51fce270567ab0abdc7__Frame-14.png"/>
+      <file href="templates/e5e972af5a9995a30b597c25445f3471__Akt-Regular.woff2"/>
+      <file href="templates/ee0df539a1a260c71e47bfec4c9043a3__Frame-8.png"/>
+    </resource>
+  </resources>
+</manifest>
