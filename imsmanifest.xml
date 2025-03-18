@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<manifest identifier="29bf1999-1e77-43cc-93c0-90cd98b102f3_1742286295727" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+<manifest identifier="29bf1999-1e77-43cc-93c0-90cd98b102f3_1742290417270" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>2004 4th Edition</schemaversion>
@@ -59,16 +59,16 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="29bf1999-1e77-43cc-93c0-90cd98b102f3_1742286295727_org">
-    <organization identifier="29bf1999-1e77-43cc-93c0-90cd98b102f3_1742286295727_org">
+  <organizations default="29bf1999-1e77-43cc-93c0-90cd98b102f3_1742290417270_org">
+    <organization identifier="29bf1999-1e77-43cc-93c0-90cd98b102f3_1742290417270_org">
       <title>Стандарты размещения снеков в современной торговле</title>
-      <item identifier="29bf1999-1e77-43cc-93c0-90cd98b102f3_1742286295727_item" identifierref="resource_1">
+      <item identifier="29bf1999-1e77-43cc-93c0-90cd98b102f3_1742290417270_item" identifierref="resource_1">
         <title>Стандарты размещения снеков в современной торговле</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="resource_1" type="webcontent" href="index.html?id=d64c36c3-70ac-4d91-a6cf-9dbb80bb0ea6" adlcp:scormType="sco">
+    <resource identifier="resource_1" type="webcontent" href="index.html?id=d40c450b-f3f6-468f-85f0-09a7806b2a67" adlcp:scormType="sco">
       <file href="index.html"/>
       <file href="defaultData.js"/>
       <file href="static/css/bundle.919e5c80.css"/>
