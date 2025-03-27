@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<manifest identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1742909141214" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+<manifest identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1743062906235" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>2004 4th Edition</schemaversion>
@@ -59,16 +59,16 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="34a677a3-817b-46d2-b517-90bd4a7edd00_1742909141214_org">
-    <organization identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1742909141214_org">
+  <organizations default="34a677a3-817b-46d2-b517-90bd4a7edd00_1743062906235_org">
+    <organization identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1743062906235_org">
       <title>Пока не пришли альфа. Как взять зумера в союзники?</title>
-      <item identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1742909141214_item" identifierref="resource_1">
+      <item identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1743062906235_item" identifierref="resource_1">
         <title>Пока не пришли альфа. Как взять зумера в союзники?</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="resource_1" type="webcontent" href="index.html?id=715afcbc-beb7-4bc7-9f8a-c37d3b585702" adlcp:scormType="sco">
+    <resource identifier="resource_1" type="webcontent" href="index.html?id=5f2429f5-d967-441d-8369-ad07edfb940f" adlcp:scormType="sco">
       <file href="index.html"/>
       <file href="defaultData.js"/>
       <file href="static/css/bundle.919e5c80.css"/>
@@ -191,6 +191,7 @@
       <file href="templates/0f5ac0806dfa4cdbe3d661f2f3eaa74c__Frame-24.png"/>
       <file href="templates/0fc240dd1ddaeb2fada50794970501d7__Frame-67.png"/>
       <file href="templates/197571f790ce582a282eecca22f1157b__Frame-17.png"/>
+      <file href="templates/1c3296afac6e75f95c2839359b8d56f7__-.pdf"/>
       <file href="templates/1e223f582a786316f09aea67e3d2e275__Frame-16.png"/>
       <file href="templates/1f69e79c83994faa6333b0490576a50d__logo.svg"/>
       <file href="templates/2062c9f53f3de841531bbcbbfd7fd174__Frame-25.png"/>
@@ -200,7 +201,6 @@
       <file href="templates/32bb46c300056c105da3f69fd59312f9__Akt-Thin.woff2"/>
       <file href="templates/33131878e77f17e056623b812d6cc449__Akt-Bold.woff2"/>
       <file href="templates/3b5620823a3832e3d5b55ae307ce4dfd__Akt-Light.woff2"/>
-      <file href="templates/3fa9caa154dd50b8889ef8eb84fb96d6__-.pdf"/>
       <file href="templates/44aa5584e603a11bdd5d664aa4357a3b__Frame-45.png"/>
       <file href="templates/48993fed95b1eada89dd28b94df7013d__Frame-64.png"/>
       <file href="templates/4d65f9db40517807fe2968319212998f__-2.png"/>
@@ -216,7 +216,6 @@
       <file href="templates/7144351d9b42bfaf9470d598e1464b34__Akt-Solid.woff2"/>
       <file href="templates/72a3bdbe849359409a69ba0b161b1a7c__Frame-36.png"/>
       <file href="templates/76981c9f2b36688f76a01d7011323ffc__Frame-10.png"/>
-      <file href="templates/7a253939bccc8b3c1801fb0bc4112c1c__Frame-67.png"/>
       <file href="templates/81b4c620bd347a7b9f548e456346be4d__Frame-20.png"/>
       <file href="templates/8245694ea3dc4800c17cb7c096b7776d__Frame-14.png"/>
       <file href="templates/8a9df3e1210313d702a85e1b0e1137c4__Frame-37.png"/>
@@ -231,89 +230,12 @@
       <file href="templates/b9c3e20494a11c6e87b830e0334e37fe__Frame-15.png"/>
       <file href="templates/c19a77d67667e4c4cf1510bbb551f2cd__Frame-46.png"/>
       <file href="templates/c21cbf28e66628784d1e19d82d189167__Frame-30.png"/>
+      <file href="templates/c259c3de5b966ea20e651828edde32c4__Frame-8.png"/>
       <file href="templates/c51ee37f8d8295a3f20b388eabca4081__Frame-32.png"/>
       <file href="templates/c9c05e414043a67e21cea37101e45e91__Frame-69.png"/>
       <file href="templates/c9d5fe15f21e6bd1409a957c0fce0161__Frame-52.png"/>
-      <file href="templates/ca27e5474b9f8867def40c27dda02c3f__Frame-8.png"/>
       <file href="templates/cb4881b946657a9f25885e55ee37e515__Frame-35.png"/>
       <file href="templates/cc895ad2233c61139ea07fac631a5f01__Frame-23.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/XMLSchema.dtd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/adlcp_v1p3.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/adlnav_v1p3.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/adlseq_v1p3.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/analytics-frame.html"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/common/anyElement.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/common/dataTypes.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/common/elementNames.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/common/elementTypes.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/common/rootElement.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/common/vocabTypes.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/common/vocabValues.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/datatypes.dtd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/extend/custom.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/extend/strict.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/data/css/output.min.css"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/data/js/66BIGwPnIQ0.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/data/js/data.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/data/js/frame.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/data/js/paths.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/lib/scripts/bootstrapper.min.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/lib/scripts/frame.desktop.min.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/lib/scripts/frame.mobile.min.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/lib/scripts/slides.min.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/lib/stylesheets/desktop.min.css"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/lib/stylesheets/mobile-fonts/open-sans-light.woff"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/html5/lib/stylesheets/mobile.min.css"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/ims_xml.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imscp_v1p1.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsmanifest.xml"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsss_v1p0.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsss_v1p0auxresource.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsss_v1p0control.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsss_v1p0delivery.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsss_v1p0limit.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsss_v1p0objective.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsss_v1p0random.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsss_v1p0rollup.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsss_v1p0seqrule.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/imsss_v1p0util.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/index_lms.html"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/lms/AICCComm.html"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/lms/blank.html"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/lms/browsersniff.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/lms/goodbye.html"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/lms/scormdriver.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/lom.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/lomCustom.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/lomLoose.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/lomStrict.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/meta.xml"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/metadata.xml"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/5ey0UK1CRyU.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/5kSXJkCO5AZ.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/5nmBjkH27zb.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/6L0Nrq2MduY.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/6LLjxFt8vnO.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/6PqfBQEUxlb.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/6TpcURmGVQG.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/6Zj4HZxFk1T.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/6hCYK1wsWhA.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/6iabDVp5vuS.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/6lgPK3ZOHcL.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/mobile/6owG3LtkyS9.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/story.html"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/story_content/5VswwmOehUb.png"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/story_content/thumbnail.jpg"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/story_content/triggers.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/story_content/user.js"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/unique/loose.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/unique/strict.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/vocab/custom.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/vocab/loose.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/vocab/strict.xsd"/>
-      <file href="templates/content/3e4024bbd0f2638c560cb38d031c65fd__Slider-1.zip/xml.xsd"/>
       <file href="templates/content/710c66239159a285cd1dcec05d66b9cb__Kosynka.zip/XMLSchema.dtd"/>
       <file href="templates/content/710c66239159a285cd1dcec05d66b9cb__Kosynka.zip/adlcp_v1p3.xsd"/>
       <file href="templates/content/710c66239159a285cd1dcec05d66b9cb__Kosynka.zip/adlnav_v1p3.xsd"/>
@@ -609,6 +531,84 @@
       <file href="templates/content/e189ea47a4dac0abeb38a365d7585432__-.zip/vocab/loose.xsd"/>
       <file href="templates/content/e189ea47a4dac0abeb38a365d7585432__-.zip/vocab/strict.xsd"/>
       <file href="templates/content/e189ea47a4dac0abeb38a365d7585432__-.zip/xml.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/XMLSchema.dtd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/adlcp_v1p3.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/adlnav_v1p3.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/adlseq_v1p3.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/analytics-frame.html"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/common/anyElement.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/common/dataTypes.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/common/elementNames.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/common/elementTypes.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/common/rootElement.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/common/vocabTypes.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/common/vocabValues.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/datatypes.dtd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/extend/custom.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/extend/strict.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/data/css/output.min.css"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/data/js/66BIGwPnIQ0.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/data/js/data.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/data/js/frame.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/data/js/paths.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/lib/scripts/bootstrapper.min.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/lib/scripts/frame.desktop.min.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/lib/scripts/frame.mobile.min.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/lib/scripts/slides.min.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/lib/stylesheets/desktop.min.css"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/lib/stylesheets/mobile-fonts/open-sans-light.woff"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/html5/lib/stylesheets/mobile.min.css"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/ims_xml.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imscp_v1p1.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsmanifest.xml"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsss_v1p0.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsss_v1p0auxresource.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsss_v1p0control.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsss_v1p0delivery.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsss_v1p0limit.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsss_v1p0objective.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsss_v1p0random.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsss_v1p0rollup.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsss_v1p0seqrule.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/imsss_v1p0util.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/index_lms.html"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/lms/AICCComm.html"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/lms/blank.html"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/lms/browsersniff.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/lms/goodbye.html"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/lms/scormdriver.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/lom.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/lomCustom.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/lomLoose.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/lomStrict.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/meta.xml"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/metadata.xml"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/5ey0UK1CRyU.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/5kSXJkCO5AZ.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/5nmBjkH27zb.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/6L0Nrq2MduY.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/6LLjxFt8vnO.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/6PqfBQEUxlb.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/6TpcURmGVQG.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/6Zj4HZxFk1T.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/6hCYK1wsWhA.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/6iabDVp5vuS.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/6lgPK3ZOHcL.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/mobile/6owG3LtkyS9.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/story.html"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/story_content/5VswwmOehUb.png"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/story_content/thumbnail.jpg"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/story_content/triggers.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/story_content/user.js"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/unique/loose.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/unique/strict.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/vocab/custom.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/vocab/loose.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/vocab/strict.xsd"/>
+      <file href="templates/content/eccd152b81282a8243f2e7aa9cbc00a0__Slider-1.zip/xml.xsd"/>
+      <file href="templates/d2be33d5d5d253e587cecb0a6dbb7cab__Frame-26.png"/>
       <file href="templates/e1798a63068805764e9c67e70cc9f0ec__Frame-21.png"/>
       <file href="templates/e46a2e09d0e5bffd776e1a1bde6d30d8__Frame-66.png"/>
       <file href="templates/e5e972af5a9995a30b597c25445f3471__Akt-Regular.woff2"/>
