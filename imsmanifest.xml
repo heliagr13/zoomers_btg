@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<manifest identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1743062906235" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+<manifest identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1743146019469" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>2004 4th Edition</schemaversion>
@@ -59,16 +59,16 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="34a677a3-817b-46d2-b517-90bd4a7edd00_1743062906235_org">
-    <organization identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1743062906235_org">
+  <organizations default="34a677a3-817b-46d2-b517-90bd4a7edd00_1743146019469_org">
+    <organization identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1743146019469_org">
       <title>Пока не пришли альфа. Как взять зумера в союзники?</title>
-      <item identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1743062906235_item" identifierref="resource_1">
+      <item identifier="34a677a3-817b-46d2-b517-90bd4a7edd00_1743146019469_item" identifierref="resource_1">
         <title>Пока не пришли альфа. Как взять зумера в союзники?</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="resource_1" type="webcontent" href="index.html?id=5f2429f5-d967-441d-8369-ad07edfb940f" adlcp:scormType="sco">
+    <resource identifier="resource_1" type="webcontent" href="index.html?id=f8ea2cca-0c7c-4160-a1a9-c796d3b198ec" adlcp:scormType="sco">
       <file href="index.html"/>
       <file href="defaultData.js"/>
       <file href="static/css/bundle.919e5c80.css"/>
@@ -191,7 +191,6 @@
       <file href="templates/0f5ac0806dfa4cdbe3d661f2f3eaa74c__Frame-24.png"/>
       <file href="templates/0fc240dd1ddaeb2fada50794970501d7__Frame-67.png"/>
       <file href="templates/197571f790ce582a282eecca22f1157b__Frame-17.png"/>
-      <file href="templates/1c3296afac6e75f95c2839359b8d56f7__-.pdf"/>
       <file href="templates/1e223f582a786316f09aea67e3d2e275__Frame-16.png"/>
       <file href="templates/1f69e79c83994faa6333b0490576a50d__logo.svg"/>
       <file href="templates/2062c9f53f3de841531bbcbbfd7fd174__Frame-25.png"/>
@@ -225,6 +224,7 @@
       <file href="templates/9630b9b2726df8d7cffe0132e950bd4f__Frame-61.png"/>
       <file href="templates/9e502eea527d04e120ac8595b306dad2__Akt-Black.woff2"/>
       <file href="templates/9efa7bb94a071963b6bacd5e30587090__Frame-65.png"/>
+      <file href="templates/ac3eca64d7ff6bf8bcf5c51643d64e17__-BTG-Consult-.pdf"/>
       <file href="templates/af415880f1b3639147bf8392196ecb9d__Frame-53.png"/>
       <file href="templates/b41054f2eb6885622ff1bea1c9b6a5fd__Frame-22.png"/>
       <file href="templates/b9c3e20494a11c6e87b830e0334e37fe__Frame-15.png"/>
